@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Viatura
+comment1.params=v
+comment1.target=int\ compareTo(Viatura)
+comment2.params=
+comment2.target=java.lang.String\ getMatricula()
+comment3.params=
+comment3.target=java.lang.String\ getTipoViatura()
+comment4.params=matricula\ nomeDono\ tipoViatura
+comment4.target=Viatura(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=5

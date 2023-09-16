@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GestaoTrabalhos
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ GestaoTrabalhos\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=cod
+comment1.target=Aluno\ nome(java.lang.String)
+comment1.text=\n\ Construtor\ para\ objetos\ da\ classe\ GestaoTrabalhos\n
+comment2.params=alunos\ alunosGrupo\ dataLimite
+comment2.target=GestaoTrabalhos(java.util.Collection,\ java.util.Map,\ java.time.LocalDate)
+comment3.params=a
+comment3.target=void\ adicionaAluno(Aluno)
+comment4.params=
+comment4.target=Entrega\ melhorEntrega()
+comment5.params=codGrupo\ e
+comment5.target=void\ adicionaEntrega(java.lang.String,\ Entrega)
+numComments=6

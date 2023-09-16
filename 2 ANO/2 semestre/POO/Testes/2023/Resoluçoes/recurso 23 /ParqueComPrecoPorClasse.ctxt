@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ParqueComPrecoPorClasse
+comment1.params=codParque\ designacaoParque\ lotacao\ precoPorHora\ precoTipo
+comment1.target=ParqueComPrecoPorClasse(java.lang.String,\ java.lang.String,\ int,\ double,\ java.util.Map)
+comment2.params=r
+comment2.target=double\ precoEstacionamento(Registo)
+numComments=3

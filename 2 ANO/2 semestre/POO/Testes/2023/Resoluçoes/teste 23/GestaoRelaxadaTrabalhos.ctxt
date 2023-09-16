@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GestaoRelaxadaTrabalhos
+comment1.params=alunos\ alunosGrupo\ dataLimite
+comment1.target=GestaoRelaxadaTrabalhos(java.util.Collection,\ java.util.Map,\ java.time.LocalDate)
+comment2.params=codGrupo\ e
+comment2.target=void\ adicionaEntrega(java.lang.String,\ Entrega)
+numComments=3

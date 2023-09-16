@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GesParques
+comment1.params=parques\ viaturas
+comment1.target=GesParques(java.util.List,\ java.util.List)
+comment2.params=codParque\ matricula
+comment2.target=void\ registaEntrada(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=Viatura\ maiorTempoEstacionamento()
+comment4.params=matricula
+comment4.target=void\ sairDoParque(java.lang.String)
+comment5.params=matricula
+comment5.target=boolean\ apenasNumParque(java.lang.String)
+comment6.params=
+comment6.target=void\ imprimeParque()
+numComments=7

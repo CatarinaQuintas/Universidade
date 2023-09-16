@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Parque
+comment1.params=r
+comment1.target=double\ precoEstacionamento(Registo)
+comment2.params=p
+comment2.target=int\ compareTo(Parque)
+comment3.params=
+comment3.target=java.lang.String\ getCodParque()
+comment4.params=
+comment4.target=int\ getOcupacao()
+comment5.params=
+comment5.target=int\ getLotacaoMax()
+comment6.params=ocupacao
+comment6.target=void\ setOcupacao(int)
+comment7.params=codParque\ designacaoParque\ lotacao\ precoPorHora
+comment7.target=Parque(java.lang.String,\ java.lang.String,\ int,\ double)
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Registo
+comment1.params=parque\ carro
+comment1.target=Registo(Parque,\ Viatura)
+comment2.params=
+comment2.target=double\ tempoNoParque()
+comment3.params=r
+comment3.target=int\ compareTo(Registo)
+comment4.params=
+comment4.target=java.time.LocalDateTime\ getHoraEntrada()
+comment5.params=
+comment5.target=java.time.LocalDateTime\ getHoraSaida()
+comment6.params=
+comment6.target=Viatura\ getViatura()
+comment7.params=horaSaida
+comment7.target=void\ setHoraSaida(java.time.LocalDateTime)
+numComments=8

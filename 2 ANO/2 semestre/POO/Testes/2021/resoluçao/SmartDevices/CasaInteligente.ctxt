@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CasaInteligente
+comment1.params=devices\ divisoes
+comment1.target=CasaInteligente(java.util.Collection,\ java.util.Map)
+comment1.text=\n\ Construtor\ para\ objetos\ da\ classe\ CasaInteligente\n
+comment2.params=
+comment2.target=java.util.Iterator\ devicesPorConsumoCrescente()
+comment3.params=
+comment3.target=java.util.Iterator\ devicesIdCrescente()
+comment4.params=
+comment4.target=java.util.Iterator\ devicesCustoCrescente()
+comment5.params=divisao
+comment5.target=double\ consumoPorDivisao(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ divisaoMaisEconomica()
+comment7.params=
+comment7.target=void\ printCasainteligente()
+comment8.params=id
+comment8.target=void\ remove(java.lang.String)
+comment9.params=bd
+comment9.target=void\ alteraInfo(java.util.function.Consumer)
+numComments=10

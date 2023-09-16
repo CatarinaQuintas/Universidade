@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SmartDevice
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ SmartDevice\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=
+comment1.target=java.lang.String\ getId()
+comment2.params=
+comment2.target=double\ getConsumoPorHora()
+comment3.params=
+comment3.target=java.time.LocalDateTime\ getInicio()
+comment4.params=on
+comment4.target=void\ setOn(boolean)
+comment5.params=inicio
+comment5.target=void\ setInicio(java.time.LocalDateTime)
+comment6.params=consumoPorHora
+comment6.target=void\ setConsumo(double)
+comment7.params=id\ consumoPorHora\ inicio
+comment7.target=SmartDevice(java.lang.String,\ double,\ java.time.LocalDateTime)
+comment8.params=
+comment8.target=void\ turnOn()
+numComments=9
