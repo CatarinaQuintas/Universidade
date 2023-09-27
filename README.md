@@ -1,2 +1,2 @@
 # Universidade
-Licenciatura em Ciências da Computaçao, Universidade do Minho.
+Licenciatura em Ciências da Computação, Universidade do Minho.
